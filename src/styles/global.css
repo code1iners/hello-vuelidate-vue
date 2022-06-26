@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.input__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.input-error {
+  font-size: 0.9rem;
+  color: tomato;
+}
